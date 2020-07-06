@@ -1,0 +1,13 @@
+Bylose pateikiami laukai
+code - draudejo kodas.
+jarCode - imones juridiniu asmenu registro kodas.
+date - irašo data formatu yyyy-mm-dd.
+month - irašo menuo formatu yyyymm (pvz. 201701).
+name - imones pavadinimas.
+avgWage - Vidutinis darbo užmokestis (neatskaicius mokesciu) darbuotojams, dirbantiems pagal darbo sutartis ir valstybes tarnautojams.
+avgWage2 - Vidutinis darbo užmokestis (neatskaicius mokesciu) darbuotojams, dirbantiems pagal autorines sutartis, sporto ir atlikejo veiklos sutartis, gaunantiems tantjemas.
+numInsured - apdraustuju skaicius.
+numInsured2 - apdraustuju, dirbanciu pagal autorines sutartis, sporto ir atlikejo veiklos sutartis, gaunanciu tantjemas, skaicius.
+tax - valstybinio socialinio draudimo imoku suma
+debt - draudimo imoku skola.
+deferredDebt - draudimo imoku atideta skola.
